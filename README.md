@@ -11,4 +11,4 @@ compile 'com.baoyz.swipemenulistview:library:1.3.0'
 
 ## HTML-TextView
 https://github.com/xamoom/htmltextview \
-compile 'com.xamoom.android:htmltextview'
+compile 'com.xamoom.android:htmltextview:1.0.9'
